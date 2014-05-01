@@ -1,0 +1,17 @@
+libutil
+==========================
+
+This is used for C/C++ in Linux environment.
+
+Contains string, file, and regex utilities.
+
+  
+  Author: zhaokai
+  
+  Email: loverszhao@gmail.com
+
+  Reference: chromium
+
+  Description:
+
+  Version: 1.0
